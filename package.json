@@ -15,7 +15,8 @@
   },
   "scripts": {
     "start": "cds-serve",
-    "watch-austinrisks": "cds watch --open austinrisks/webapp/index.html?sap-ui-xx-viewCache=false"
+    "watch-austinrisks": "cds watch --open austinrisks/webapp/index.html?sap-ui-xx-viewCache=false",
+    "watch-austinmiti": "cds watch --open austinmiti/webapp/index.html?sap-ui-xx-viewCache=false"
   },
   "sapux": [
     "app/austinrisks"
