@@ -1,3 +1,17 @@
+# Steps
+
+```
+cds init
+```
+Add schema.cds and risk-services.cds
+```
+cds watch
+```
+Opening url showed serves the application
+
+
+
+
 # Getting Started
 
 Welcome to your new project.
