@@ -1,4 +1,5 @@
 # Steps
+Following https://developers.sap.com/mission.btp-deploy-cap-kyma.html
 
 ```
 cds init
